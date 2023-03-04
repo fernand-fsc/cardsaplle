@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css2?family=Roboto:wght);
 
 *{
     box-sizing: border-box;
@@ -18,7 +17,8 @@ body{
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 50px;
+    gap: 30px;
+    height: 100%;
 }
 
 .product{

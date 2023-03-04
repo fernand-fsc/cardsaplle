@@ -31,3 +31,7 @@ botoes.forEach(function(botao){
     })   
 })
 
+
+const handleClick = () => {
+    alert('Produto indisponível')
+}
